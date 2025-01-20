@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+fetch weather data from weather API
 
 ## Getting Started
 
